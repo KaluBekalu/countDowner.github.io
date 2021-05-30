@@ -6,7 +6,6 @@
 body {
   font-family: "Cairo", sans-serif;
 }
-
 .error{
   color: white;
   background-color: red;
@@ -14,7 +13,6 @@ body {
   border-radius: 15px;
   margin-left: auto;
   margin-right: auto;
-
 }
 
 .title-div {
@@ -39,7 +37,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 
 }
 
